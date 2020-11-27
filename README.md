@@ -13,7 +13,7 @@ Date: November 27, 2020
 Viewers can see my findings here:
 
 - **Project Report.pdf**: Discussion of the project scope, all analysis, results and conclusions. 
-- **Building Load Forecast.ipnby**: This document contains the entire workflow. Please note that Github only renders static charts. Hence, the figures in this notebook won't show up.
+- **Building Load Forecast.ipnby**: This document contains the entire workflow. Please note that Github only renders static charts. Hence, the figures in this notebook won't show up because they are interactive.
 
 
 # Starter Files
