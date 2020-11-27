@@ -2,7 +2,6 @@
 The goal of this project is to predict future energy consumption for several energy system types across thousands of buildings. To accomplish this, the following tools were employed using Python:
 - Interactive dashboards for data exploration
 - Time series entropy for faulty meter detection
-- August-Roche-Magnus approximation to determine relative humidity
 - Interpolation algorithms, regression and classification machine learning algorithms for missing data estimation
 - Facebook Prophet for time series forecasting
 
